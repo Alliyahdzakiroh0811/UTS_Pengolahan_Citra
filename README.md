@@ -1,6 +1,9 @@
 membuat kalkulator sederhana
 
 ![membuat kalkulator sederhana](https://user-images.githubusercontent.com/56861575/117395180-ad3a6900-af21-11eb-829e-3491671523a3.jpeg)
+![membuat kalkulator sederhana (2)](https://user-images.githubusercontent.com/56861575/117468415-d9d09e00-af7e-11eb-9be5-35bec0eb50a2.jpeg)
+![membuat kalkulator sederhana (3)](https://user-images.githubusercontent.com/56861575/117468454-e5bc6000-af7e-11eb-9547-4f4803dd8a59.jpeg)
+
 
 Hasil
 
